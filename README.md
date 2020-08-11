@@ -19,7 +19,7 @@ A timer app that stays in your OS's tray created via electron
 `npm init`
 
 ### npm packages
-`npm install --save electron`
+`npm install`
 
 ### Running electron
 `"electron": "electron ."` inside `package.json`
