@@ -2,7 +2,7 @@
   "name": "timer",
   "version": "1.0.0",
   "description": "Electron timer app",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
     "electron": "electron ."
@@ -26,5 +26,6 @@
     "react-router-dom": "^4.0.0",
     "webpack": "^2.3.2",
     "webpack-dev-server": "^2.4.2"
-  }
+  },
+  "license": "MIT"
 }
