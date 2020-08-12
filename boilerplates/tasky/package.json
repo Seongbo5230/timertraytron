@@ -4,7 +4,7 @@
   "description": "Electron timer app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "webpack": "webpack-dev-server",
     "electron": "electron ."
   },
   "author": "Rallycoding",
