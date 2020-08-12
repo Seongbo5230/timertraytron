@@ -9,7 +9,7 @@
   },
   "author": "Rallycoding",
   "devDependencies": {
-    "electron": "9.2.0"
+    "electron": "~1.6.2"
   },
   "dependencies": {
     "babel-core": "^6.24.0",
@@ -26,6 +26,5 @@
     "react-router-dom": "^4.0.0",
     "webpack": "^2.3.2",
     "webpack-dev-server": "^2.4.2"
-  },
-  "license": "MIT"
+  }
 }
