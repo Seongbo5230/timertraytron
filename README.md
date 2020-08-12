@@ -8,6 +8,7 @@ A timer app that stays in your OS's tray created via electron
     - mainWindow (`ipcRenderer.send`) -> electron app (`ipcMain.on`)
 - app will communicate back to mainWindow with info on the video via IPC
     - electron app (`mainWindow.webContents.send`) -> mainWindow (`ipcRenderer.on`)
+- Tray will extend TimerTray - which is customized for this application
 
 ## Logic workflow
 1. 

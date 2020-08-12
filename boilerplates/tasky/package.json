@@ -1,5 +1,5 @@
 {
-  "name": "timer",
+  "name": "timertraytron",
   "version": "1.0.0",
   "description": "Electron timer app",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "author": "Rallycoding",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "9.2.0"
   },
   "dependencies": {
     "babel-core": "^6.24.0",
